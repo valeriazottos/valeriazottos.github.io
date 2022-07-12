@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-En agosto de 2021 obtuve el título de Licenciada en Relaciones Internacionales en la [Univerisad de San Andrés](www.udesa.edu.ar), e inicié el Mágister en Economía en la [Universidad de San Andrés]. Decidí realizar el máster ya que me interesan los temas de crecimiento económico, desarrollo, pobreza y policy. Considero que la fusión de diferentes disciplinas permite un análisis crítico e integrador de las diferentes problemáticas. También, al momento de trabajar en equipo tener un enfoque multidisciplinario fomenta la comunicación y las soluciones eficientes. 
+En agosto de 2021 obtuve el título de Licenciada en Relaciones Internacionales en la [Univerisad de San Andrés](www.udesa.edu.ar), e inicié el Mágister en Economía en la Universidad de San Andrés. Decidí realizar el máster ya que me interesan los temas de crecimiento económico, desarrollo, pobreza y policy. Considero que la fusión de diferentes disciplinas permite un análisis crítico e integrador de las diferentes problemáticas. También, al momento de trabajar en equipo tener un enfoque multidisciplinario fomenta la comunicación y las soluciones eficientes. 
 
 Además de ser estudiante soy productora de seguros y trabajo para empresas como Federación Patronal y San Cristóbal desde 2019. 
 
