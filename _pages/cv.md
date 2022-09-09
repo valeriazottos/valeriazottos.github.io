@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Insurance broker
+* Insurance broker. 2020 - present
   * San Cristóbal Seguros and Federación Patronal Seguros
   * Duties included: control of policies and costumer engagement.
   
