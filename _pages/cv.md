@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor’s degree in International Relations, Universidad de San Andrés, 2021
-* Master’s degree in Economics, Universidad de San Andrés, 2022 
+* Bachelor’s degree in International Relations, Universidad de San Andrés, 2017 - 2021
+* Master’s degree in Economics, Universidad de San Andrés, 2021 - 2022 (expected) 
 
 Work experience
 ======
