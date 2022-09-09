@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor’s degree in International Relations, Universidad de San Andrés, 2021
+* Master’s degree in Economics, Universidad de San Andrés, 2022 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Insurance broker
+  * San Cristóbal Seguros and Federación Patronal Seguros
+  * Duties included: control of policies and costumer engagement.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Software and Computer skills
+  * Stata
+  * QGIS
+  * Python
+  * Microsoft Office
+  * LaTex
+  * R
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Chamber of Deputies. Advisor to the Foreign Policy Commission. Argentina. 2020
+* Health education to hospitalized children. Edinburgh, Scotland. 2019
+* Ballet teacher. All levels. Salta, Argentina. 2015 - 2016
+* HIRPaCE Foundation: fundraising and recreational activities for children with disabilities. Salta, Argentina. 2015 - 2016
+* Arabic dance teacher. All levels. Salta, Argentina. 2013 - 2014
