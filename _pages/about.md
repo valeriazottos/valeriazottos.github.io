@@ -1,17 +1,11 @@
 ---
 permalink: /
-title: "Perfil personal"
-excerpt: "Perfil personal"
+title: "Personal profile"
+excerpt: "Personal profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-En agosto de 2021 obtuve el título de Licenciada en Relaciones Internacionales en la [Univerisad de San Andrés](www.udesa.edu.ar), e inicié el Mágister en Economía en la Universidad de San Andrés. Decidí realizar el máster ya que me interesan los temas de crecimiento económico, desarrollo, pobreza y policy. Considero que la fusión de diferentes disciplinas permite un análisis crítico e integrador de las diferentes problemáticas. También, al momento de trabajar en equipo tener un enfoque multidisciplinario fomenta la comunicación y las soluciones eficientes. 
-
-Además de ser estudiante soy productora de seguros y trabajo para empresas como Federación Patronal y San Cristóbal desde 2020. 
-
-En cuanto a mi faceta artística soy maestra de danzas clásicas y arábes. Bailarina de danzas clásicas, árabes, contemporáneo y jazz. Tomé durante seis años clases de actuación siguiendo el método Stanislavski. Siempre que puedo trato de llevar mi cámara en mano porque me gusta retrar lo efímero. Uno de mis pasatiempos favoritos es ir a museos o galerías de arte ya que estoy interesada en  el mercado del arte. 
-
-
+In 2021, I graduated with a BA in International Relations from [Univerisad de San Andrés](www.udesa.edu.ar), where I also began a Master’s in Economics. My interest in economic development, public policy, growth, and poverty led me to deepen my training in economics. I value interdisciplinary perspectives as they foster critical thinking, integrative analysis, and more effective team collaboration.
